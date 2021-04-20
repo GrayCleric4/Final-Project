@@ -27,26 +27,7 @@ Restaurant Data:
 
 This data set is a set of all of the restaurants in Allegheny County with geographic locations including zip code, size, description of use, and a "status" of either 1 or 7 to indicate if the restaurant is currently open.
 
-Link: 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Link: https://data.wprdc.org/dataset/allegheny-county-restaurant-food-facility-inspection-violations/resource/112a3821-334d-4f3f-ab40-4de1220b1a0a
 
 
 
