@@ -3,7 +3,9 @@ Team Name: The Pythons
 
 Names: Gray Cleric, Ethan Rubenstein, Teresa Davidson
 
-Emails: GRC43@pitt.edu, 
+Emails: GRC43@pitt.edu, edr38@pitt.edu, tid30@pitt.edu
+
+
 
 Descripition/Links to datasets:
 
@@ -13,6 +15,7 @@ Description: The data is the Pittsburgh polices records of local Pittsburgh arre
 the location, age of criminal, crime commited, time of day, etc.  
 
 Link: https://data.wprdc.org/dataset/arrest-data
+
 
 
 
