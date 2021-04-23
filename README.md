@@ -32,6 +32,8 @@ Link: https://data.wprdc.org/dataset/allegheny-county-restaurant-food-facility-i
 
 
 Abstract: (summary of findings- What is the best neighborhood? How did you determine it? Brief summary of metrics)
--decide what neighborhood is best - We decided that Squirrel Hill is the best overrall.  
--explain metrics - 20% scale in which the top 20% for a given dataset is a 5.  Total points possible for a given neighborhood
-with this system is 15 points across the 3 datasets.  
+-decide what neighborhood is best - We decided that Squirrel Hill is the best overrall.  It has a bunch of enjoyable restaurants, good properties, and low crime rates.  It is a great place 
+
+-explain metrics - We used a 20% scale in which the top 20% for a given dataset is a 5.  Total points possible for a given neighborhood
+with this system is 15 points across the 3 datasets.  We decided that this would be a good metric because we felt like looking at the percentiles 
+in 20% interv
