@@ -31,8 +31,6 @@ Link: https://data.wprdc.org/dataset/allegheny-county-restaurant-food-facility-i
 
 
 
-
-
 Abstract: (summary of findings- What is the best neighborhood? How did you determine it? Brief summary of metrics)
 -decide what neighborhood is best
 -explain metrics - 20% scale in which the top 20% for a given dataset is a 5.  Total points possible for a given neighborhood
