@@ -25,7 +25,7 @@ Link: https://data.wprdc.org/dataset/real-estate-sales
 
 Restaurant Data:
 
-This data set is a set of all of the restaurants in Allegheny County with geographic locations including zip code, size, description of use, and a "status" of either 1 or 7 to indicate if the restaurant is currently open.
+This data set is a set of all of the restaurants in Allegheny County with geographic locations including zip code, size, description of use, and a "status" of either 1 or 7 to indicate if the restaurant is currently open. Restaurants are a fairly good metric to judge a neighborhood by since they can create a sense of community, as well as providing easy access to good food. This is not only good for overall quality of living and diversion but is very useful for those who do not have the time to cook, such as people with demanding jobs or college students. The matter is slightly complicated by the factors like walkability, price of UberEats, or parking/car accessability if there is not good walkability and people must drive. However, in terms of general enjoyment, having many restaurants around must be a good thing for the happiness of residents and social life in the area. This dataset provides the data needed to see the number of restaurants in a given area that would be available to residents.
 
 Link: https://data.wprdc.org/dataset/allegheny-county-restaurant-food-facility-inspection-violations/resource/112a3821-334d-4f3f-ab40-4de1220b1a0a
 
