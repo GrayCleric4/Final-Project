@@ -1,7 +1,7 @@
 # Final-Project
 Team Name: The Pythons
 
-Names: Gray Cleric, Ethan Rubenstein, Teresa Davidson
+Names: Gray Cleric, Ethan Rubenstein, Teresa Davison
 
 Emails: GRC43@pitt.edu, edr38@pitt.edu, tid30@pitt.edu
 
