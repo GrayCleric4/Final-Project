@@ -32,10 +32,7 @@ Link: https://data.wprdc.org/dataset/allegheny-county-restaurant-food-facility-i
 
 
 Abstract: (summary of findings- What is the best neighborhood? How did you determine it? Brief summary of metrics)
--decide what neighborhood is best - We decided that Squirrel Hill is the best overrall.  It has a bunch of enjoyable restaurants, good properties, and low crime rates.  It is a great place 
+We decided that Squirrel Hill, Browns Hill, and Greenfield are the best overrall.  They have a bunch of enjoyable restaurants, good properties, and low crime rates.  These neighborhoods came to a tie in terms of point values of our metric.  If we had to pick one, it would be Squirrel Hill because the crime rates are a bit lower than the other two.   
 
--explain metrics - We used a 20% scale in which the top 20% for a given dataset is a 5. The top implies that it is the most optimal for a given dataset. Total points possible for a given neighborhood
-with this system is 15 points across the 3 datasets.  We decided that this would be a good metric because we felt like looking at the percentiles 
-in 20% intervals gives us the general trend of the datasets as they apply to varying neighborhoods.  In retrospect, we could have even broken it into smaller
-intervals and assigned more points so that we would not have had to narrow down the best neighborhood as much in the end, but the system definitely worked
-well for us in this project.  
+For the metric system, we used a 20% scale in which the top 20% for a given dataset is a 5. The top implies that it is the most optimal for a given dataset.  For example, our top 20% of the arrest data included the neighborhoods having the lowest crime. The total points possible for a given neighborhood with this system is 15 points across the 3 datasets.  We decided that this would be a good metric because we felt like looking at the percentiles in 20% intervals would give us the general trend of the datasets as they apply to varying neighborhoods.  In retrospect, we could have even broken it into smaller
+intervals and assigned more points so that we would not have had to narrow down the best neighborhood as much in the end, but the system definitely worked well for us in this project.  
